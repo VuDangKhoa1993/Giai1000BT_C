@@ -1,0 +1,3 @@
+
+Phan tu -1 co ton tai trong mang vector!
+Phan tu 25 khong ton tai trong mang vector!
